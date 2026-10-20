@@ -1,0 +1,6 @@
+{
+  "summary": "Plan architectural et technique complet pour l'application SIGNER de l'écosystème HephaistOS : Keymaker (génération de keyset AOSP & AVB), Appsigner (signature d'APKs individuels ou issus de ROM/GSI), Rom Signer (analyse poussée, gestion odex/vdex/Gapps/xml et régénération vbmeta), persistance des données sur le stockage HephaistOS, interface Material 3 fluide adaptative et workflow GitHub Actions CI.",
+  "updatedAt": "2026-10-20T07:35:52.168843940Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
